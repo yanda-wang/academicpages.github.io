@@ -17,7 +17,6 @@ Dr. Yanda Wang is currently a lecturer at Nanjing Normal University. He earned h
 
 Publications
 ======
-
 - Yanda Wang, Lin Yue, Ying Li. Topological Knowledge Enhanced Personalized Ranking Model for Sequential Medication Recommendation. ADMA (4) 2024: 109-124.<br>
 - Di Zhu, Yi Liu, Weitong Chen, Yanda Wang, Yefan Huang, Xiaoli Wang, Ken Cai, Bohan Li. Graph Convolution Synthetic Transformer for Chronic Kidney Disease Onset Prediction. ADMA (3) 2023: 33-47.<br>
 - YD Wang, WT Chen, DC Pi, L Yue. Adaptive Multi-Hop Reading on Memory Neural Network with Selective Coverage Mechanism for Medication Recommendation. Acta Electronica Sinica 50 (4), 943-953, 2022.<br>
@@ -26,18 +25,24 @@ Publications
 - Yanda Wang, Weitong Chen, Dechang Pi, Robert Boots. Graph augmented triplet architecture for fine-grained patient similarity. World Wide Web 23(5): 2739-2752 (2020).<br>
 - Yanda Wang, Weitong Chen, Bohan Li, Robert Boots. Learning Fine-Grained Patient Similarity with Dynamic Bayesian Network Embedded RNNs. DASFAA (1) 2019: 587-603.
 
-
 Grants and Funding
 ======
-
-
+- National Natural Science Foundation of China, Grant No.62406145, 2025.01-2027.12, CNY 300,000, Principle Investigator.
+- National Natural Science Foundation of China, Grant No.62476135, 2025.01-2028.12, CNY 500,000, Participant.
+- Natural Science Foundation of Jiangsu Higher Education Institutions of China, Grant No.24KJB520015, 2024.07-2026.07, CNY 30,000, Principle Investigator.
+- Scientific Research Foundation of Nanjing Normal University, 2023.07-2025.12, CNY 80,000, Principle Investigator.
 
 Teaching
 ======
-
+- Data Mining, Nanjing Normal University.
+- Software Engineering, Nanjing Normal University.
+- Python, Nanjing Normal University.
 
 Contact
 ======
+yandawang@nnu.edu.cn<br>
+No.1 Wenyuan Road, Qixia District, Nanjing<br>
+P.R.China 210023
 
 
 
