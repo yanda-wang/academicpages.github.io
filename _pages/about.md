@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 Lecturer
+
 School of Computer and Electronic Information
+
 Nanjing Normal University
 
 Short Bio
