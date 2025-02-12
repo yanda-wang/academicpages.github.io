@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Lecturer
-
-School of Computer and Electronic Information
-
+Lecturer<br>
+School of Computer and Electronic Information<br>
 Nanjing Normal University
 
 Short Bio
