@@ -32,6 +32,10 @@ Grants and Funding
 - Natural Science Foundation of Jiangsu Higher Education Institutions of China, Grant No.24KJB520015, 2024.07-2026.07, CNY 30,000, Principle Investigator.
 - Scientific Research Foundation of Nanjing Normal University, 2023.07-2025.12, CNY 80,000, Principle Investigator.
 
+Professional Service
+======
+- Proceeding chair, International Conference Advanced Data Mining and Applications (ADMA) 2025
+
 Teaching
 ======
 - Data Mining, Nanjing Normal University.
