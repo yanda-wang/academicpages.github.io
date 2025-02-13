@@ -22,6 +22,7 @@ Publications
 - YD Wang, WT Chen, DC Pi, L Yue. Adaptive Multi-Hop Reading on Memory Neural Network with Selective Coverage Mechanism for Medication Recommendation. Acta Electronica Sinica 50 (4), 943-953, 2022.<br>
 - Yanda Wang, Weitong Chen, Dechang Pi, Lin Yue, Miao Xu, Xue Li. Multi-hop Reading on Memory Neural Network with Selective Coverage for Medication Recommendation. CIKM 2021: 2020-2029.<br>
 - Yanda Wang, Weitong Chen, Dechang Pi, Lin Yue, Sen Wang, Miao Xu. Self-Supervised Adversarial Distribution Regularization for Medication Recommendation. IJCAI 2021: 3134-3140.<br>
+- Yanda Wang, Weitong Chen, Dechang Pi, Lin Yue. Adversarially regularized medication recommendation model with multi-hop memory network. Knowl. Inf. Syst. 63(1): 125-142 (2021).<br>
 - Yanda Wang, Weitong Chen, Dechang Pi, Robert Boots. Graph augmented triplet architecture for fine-grained patient similarity. World Wide Web 23(5): 2739-2752 (2020).<br>
 - Yanda Wang, Weitong Chen, Bohan Li, Robert Boots. Learning Fine-Grained Patient Similarity with Dynamic Bayesian Network Embedded RNNs. DASFAA (1) 2019: 587-603.
 
